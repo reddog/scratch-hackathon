@@ -43,11 +43,11 @@ These resources are just to get those unfamiliar with the GPIO header up and run
 
 ### Additional resources that are available:
 
-- Sean has created a web page detailing his three starter example projects, Torch, FizzBuzz and Burglar Alarm (requires EduKit 2) here [http://www.sean.co.uk/books/raspberry-pi-for-dummies/scratch-gpio.shtm](http://www.sean.co.uk/books/raspberry-pi-for-dummies/scratch-gpio.shtm)  Code for these projects is available.
+- Sean has created a web page detailing his three starter example projects, Torch, FizzBuzz and Burglar Alarm (requires EduKit 2) here [www.sean.co.uk/books/raspberry-pi-for-dummies/scratch-gpio.shtm](http://www.sean.co.uk/books/raspberry-pi-for-dummies/scratch-gpio.shtm)  Code for these projects is available.
 
 - [Scratch Cards](Scratch 1.4/ScratchCardsAll-v1.4-PDF)
 
-- See also the various folders in this repository for more information and resources.
+- See also the various folders in this repository at [github.com/reddog/scratch-hackathon](https://github.com/reddog/scratch-hackathon) for more information and resources.
 
 
 ## WARNING!  GPIO Safety
@@ -62,6 +62,8 @@ Remember to save your work, frequently!  Also remember to shut down the Raspberr
 
 ## (Loose!) Session Plan
 
+Item | Time | Task
+--- | --- | ---
 1 | 5 mins | Introduction and outline of the Scratch Hackathon - create something **amazing** out of Scratch, GPIO and the CamJam EduKit!  **Hightlight important safety aspect of correctly connecting GPIO pins**
 2 | 10 mins | Make some teams!  Self organised teams / different skills / different abilities.  Encourage teams to brainstorm ideas of what sort of **amazing** __Raspberry Pi 3rd birthday__ Scratch GPIO projects could be created!
 3 | 5 mins | (If required) Bring together the brainstorming ideas
@@ -74,12 +76,12 @@ Remember to save your work, frequently!  Also remember to shut down the Raspberr
 The workshop will finish with a **show & tell** in one of the lecture theatres!  After a brief summary of the hackathon, those teams that want (time permitting!) will be asked to give a brief summary of what they learnt and created!!
 
 (Facilitator note:
-If required, some sort of random selection of teams to present may be required, for example [http://www.classtools.net/random-name-picker/](http://www.classtools.net/random-name-picker/) )
+If required, some sort of random selection of teams to present may be required, for example [www.classtools.net/random-name-picker/](http://www.classtools.net/random-name-picker/) )
 
 
 ## Further Information / After the Event
 
-Gordon Henderson has a basic GPIO example with a single LED where he details why a resistor is also needed, see [https://projects.drogon.net/raspberry-pi/gpio-examples/tux-crossing/gpio-examples-1-a-single-led/](https://projects.drogon.net/raspberry-pi/gpio-examples/tux-crossing/gpio-examples-1-a-single-led/)
+Gordon Henderson has a basic GPIO example with a single LED where he details why a resistor is also needed, see [projects.drogon.net/raspberry-pi/gpio-examples/tux-crossing/gpio-examples-1-a-single-led/](https://projects.drogon.net/raspberry-pi/gpio-examples/tux-crossing/gpio-examples-1-a-single-led/)
 
 If you want to document your CamJam EduKit GPIO creations, you could use [Fritzing](http://fritzing.org/home/) to draw out your circuits.
 
